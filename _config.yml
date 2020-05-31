@@ -98,12 +98,6 @@ service-worker: true
 # Friends
 friends: [
     {
-      title: "baidu",
-       href: "http://seanlee6.github.io
-    },{
-        title: "baidu",
-        href: "www.baidu.com
-    },{
        title: "Apple",
         href: "https://apple.com"
     },{
