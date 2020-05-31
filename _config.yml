@@ -99,7 +99,7 @@ service-worker: true
 friends: [
     {
       title: "baidu",
-       href: "http://www.baidu.com"
+       href: "http://seanlee6.github.io
     },{
         title: "baidu",
         href: "www.baidu.com
